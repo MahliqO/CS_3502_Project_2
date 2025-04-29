@@ -1,0 +1,6 @@
+Algorithm,Avg Waiting Time,Avg Turnaround Time,Avg Response Time,CPU Utilization,Throughput
+First-Come, First-Served (FCFS),14.60,22.80,14.60,100.00,0.1220
+Shortest Job First (SJF),12.20,20.40,12.20,100.00,0.1220
+Round Robin (RR) - Quantum: 2,9.80,18.00,1.60,100.00,0.1220
+Shortest Remaining Time First (SRTF),4.60,12.80,0.80,102.50,0.1250
+Multi-Level Feedback Queue (MLFQ) - Queues: 3, Base Quantum: 2,10.80,19.00,1.20,100.00,0.1220
