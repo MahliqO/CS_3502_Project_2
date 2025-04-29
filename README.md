@@ -1,4 +1,4 @@
-# CS_3502_Project_2# CPU Scheduling Simulator
+# CS_3502_Project_2 - CPU Scheduling Simulator
 
 A comprehensive simulator for evaluating and comparing CPU scheduling algorithms, built with C#.
 
