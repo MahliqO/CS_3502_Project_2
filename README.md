@@ -53,7 +53,7 @@ This project implements a CPU scheduling simulator that allows users to analyze 
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/CPUSchedulingSimulator.git
+git clone [https://github.com/yourusername/CPUSchedulingSimulator.git](https://github.com/MahliqO/CS_3502_Project_2)
 ```
 
 2. Navigate to the project directory:
